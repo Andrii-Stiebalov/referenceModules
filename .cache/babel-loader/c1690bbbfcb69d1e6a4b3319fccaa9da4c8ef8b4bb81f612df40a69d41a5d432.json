@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { mapGetters } from \"vuex\";\nimport DecisionNotification from \"./DecisionNotification.vue\";\nexport default {\n  components: {\n    DecisionNotification\n  },\n  computed: {\n    ...mapGetters(\"global\", [\"getModuleWrapper\"])\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

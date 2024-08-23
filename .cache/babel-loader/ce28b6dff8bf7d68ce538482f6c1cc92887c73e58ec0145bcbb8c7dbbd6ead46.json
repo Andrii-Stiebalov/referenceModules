@@ -1,0 +1,1 @@
+{"ast":null,"code":"const mp = window.mp;\nconst Browser = window.Browser;\nmp.events.add('Taxi:Tablet:Ready', () => {\n  Browser.emit('Taxi:Tablet:SetData', {\n    type: 'ems',\n    taxiNotification: true\n  });\n});","map":null,"metadata":{},"sourceType":"script","externalDependencies":[]}

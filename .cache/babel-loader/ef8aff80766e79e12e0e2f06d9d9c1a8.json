@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  data() {\n    return {\n      active: false\n    };\n  },\n  methods: {\n    tooltipHandler() {\n      this.active = !this.active;\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

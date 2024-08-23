@@ -1,0 +1,1 @@
+{"ast":null,"code":"import CategoryItem from \"./CategoryItem\";\nexport default {\n  data() {\n    return {};\n  },\n  components: {\n    CategoryItem\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

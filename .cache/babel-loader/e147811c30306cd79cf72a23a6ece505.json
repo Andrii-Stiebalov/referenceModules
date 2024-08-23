@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { mapGetters } from \"vuex\";\nimport \"./Notification.scss\";\nimport Layout from \"./Components/Layout.vue\";\nexport default {\n  components: {\n    Layout\n  },\n  computed: {\n    ...mapGetters(\"notification\", [\"getLayoutList\"])\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

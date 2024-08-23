@@ -1,0 +1,1 @@
+{"ast":null,"code":"import CategoryList from \"./Components/CategorySection/CategoryList\";\nimport SideBar from \"./Components/SideBar\";\nexport default {\n  data() {\n    return {};\n  },\n  components: {\n    CategoryList,\n    SideBar\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

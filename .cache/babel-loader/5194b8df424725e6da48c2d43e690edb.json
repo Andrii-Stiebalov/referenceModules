@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    gender: {\n      type: Boolean,\n      required: true\n    },\n    size: {\n      type: String,\n      required: true\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

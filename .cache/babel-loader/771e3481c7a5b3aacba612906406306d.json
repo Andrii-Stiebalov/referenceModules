@@ -1,0 +1,1 @@
+{"ast":null,"code":"import LogItem from \"./Components/LogItem.vue\";\nimport ListNavigation from \"../../Components/ListNavigation.vue\";\nexport default {\n  components: {\n    LogItem,\n    ListNavigation\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

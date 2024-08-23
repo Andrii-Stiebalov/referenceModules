@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    props: {\n      type: Array,\n      default() {\n        return [{\n          keys: [\"Esc\"],\n          title: \"Закрыть окно\"\n        }];\n      }\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

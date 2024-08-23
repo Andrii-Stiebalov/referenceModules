@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Police from \"../../Assets/Icons/Police.vue\";\nexport default {\n  components: {\n    Police\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

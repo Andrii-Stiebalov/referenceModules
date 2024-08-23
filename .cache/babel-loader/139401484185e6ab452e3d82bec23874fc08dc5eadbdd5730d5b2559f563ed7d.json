@@ -1,0 +1,1 @@
+{"ast":null,"code":"import WeazelAppLogoIcon from \"./WeazelAppLogoIcon.vue\";\nexport default {\n  components: {\n    WeazelAppLogoIcon\n  },\n  computed: {\n    getWeazelIsActive() {\n      return this.$store.getters[\"phone/getWeazelIsActive\"];\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

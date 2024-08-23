@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default class Point {\n  constructor(x, y) {\n    this.x = x;\n    this.y = y;\n  }\n  compare(p) {\n    if (this.y === p.y) {\n      return this.x - p.x;\n    } else {\n      return this.y - p.y;\n    }\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

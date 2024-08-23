@@ -1,0 +1,1 @@
+{"ast":null,"code":"import recursiveAssign from \"../Functions/RecursiveAssign.js\";\nexport default {\n  install: app => {\n    app.config.globalProperties.$recursiveAssign = recursiveAssign;\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

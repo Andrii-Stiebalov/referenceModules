@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Medical from \"../Assets/Icons/Medical.vue\";\nexport default {\n  components: {\n    Medical\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

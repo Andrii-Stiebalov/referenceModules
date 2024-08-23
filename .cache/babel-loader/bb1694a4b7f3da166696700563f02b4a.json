@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ColorPickerSection from \"./ColorPickerSection/ColorPickerSection\";\nexport default {\n  data() {\n    return {};\n  },\n  components: {\n    ColorPickerSection\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

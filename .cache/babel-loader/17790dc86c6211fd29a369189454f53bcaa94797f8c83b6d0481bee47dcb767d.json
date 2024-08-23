@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  name: \"PhoneAdditionalUIView\",\n  computed: {\n    helpersPageViewItem() {\n      return this.$store.getters[\"phone/getHelpersPageViewItem\"];\n    }\n  },\n  watch: {\n    helpersPageViewItem(val) {\n      console.log(val);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

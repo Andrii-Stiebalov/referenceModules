@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ChanceTrapezoid from \"./icons/ChanceTrapezoid\";\nimport ChanceTrapezoidRed from \"./icons/ChanceTrapezoidRed\";\nexport default {\n  components: {\n    ChanceTrapezoid,\n    ChanceTrapezoidRed\n  },\n  props: {\n    chance: Number,\n    ChanceBoost: Number,\n    IsVip: Boolean\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

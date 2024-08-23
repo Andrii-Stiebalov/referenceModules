@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Range from \"../../../../../Components/CustomRange/CustomRange.vue\";\nexport default {\n  components: {\n    Range\n  },\n  props: {\n    rotate: {\n      type: Number,\n      required: true\n    }\n  },\n  methods: {\n    onRotate(value) {\n      this.$emit(\"update:rotate\", value);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

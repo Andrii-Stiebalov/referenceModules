@@ -1,0 +1,1 @@
+{"ast":null,"code":"import IconUserAdd1 from \"../assets/icons/user-add__1.vue\";\nexport default {\n  components: {\n    IconUserAdd1\n  },\n  props: {\n    card: {\n      require: true,\n      type: Object\n    },\n    cardIndex: {\n      require: true,\n      type: Number\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

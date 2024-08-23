@@ -1,0 +1,1 @@
+{"ast":null,"code":"import NewIcon from \"./NewIcon.vue\";\nexport default {\n  components: {\n    NewIcon\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

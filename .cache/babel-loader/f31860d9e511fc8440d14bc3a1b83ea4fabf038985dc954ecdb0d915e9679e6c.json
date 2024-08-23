@@ -1,0 +1,1 @@
+{"ast":null,"code":"import BtnCorners from \"./icons/BtnCorners.vue\";\nexport default {\n  components: {\n    BtnCorners\n  },\n  props: {\n    isHaveEnoughItemsAll: Boolean,\n    isHaveCurrentItem: Boolean,\n    isDone: Boolean\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

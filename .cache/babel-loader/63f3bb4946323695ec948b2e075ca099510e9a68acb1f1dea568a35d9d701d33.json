@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { mapGetters } from \"vuex\";\nimport Battery from \"../Assets/Icons/Battery.vue\";\nimport Signal from \"../Assets/Icons/Signal.vue\";\nexport default {\n  components: {\n    Battery,\n    Signal\n  },\n  computed: {\n    ...mapGetters(\"global\", [\"getTime\"])\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

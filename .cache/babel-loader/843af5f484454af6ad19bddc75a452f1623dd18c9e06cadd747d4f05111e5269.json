@@ -1,0 +1,1 @@
+{"ast":null,"code":"import WorkbenchRecipeItem from \"./WorkbenchRecipeItem.vue\";\nexport default {\n  components: {\n    WorkbenchRecipeItem\n  },\n  props: {\n    selectedRecipe: Object,\n    inventoryMap: Object,\n    count: Number\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

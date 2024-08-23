@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    page: {\n      type: Number,\n      required: true\n    },\n    maxPages: {\n      type: Number,\n      required: true\n    }\n  },\n  methods: {\n    onMovePage(type) {\n      this.$emit(\"movePage\", type);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

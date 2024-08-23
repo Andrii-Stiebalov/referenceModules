@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    type: {\n      type: String,\n      default: \"normal\"\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

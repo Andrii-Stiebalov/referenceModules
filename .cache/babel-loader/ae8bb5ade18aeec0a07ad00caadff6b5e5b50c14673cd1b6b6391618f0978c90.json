@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  data() {\n    return {\n      isActive: false\n    };\n  },\n  mounted() {\n    this.isActive = true;\n  },\n  unmounted() {\n    this.isActive = false;\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

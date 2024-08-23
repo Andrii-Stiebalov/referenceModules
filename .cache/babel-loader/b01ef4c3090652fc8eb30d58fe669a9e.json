@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Human from \"./HumanTemplate.vue\";\nexport default {\n  components: {\n    Human\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

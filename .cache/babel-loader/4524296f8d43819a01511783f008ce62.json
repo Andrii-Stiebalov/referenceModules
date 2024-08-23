@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  mounted() {\n    document.addEventListener(\"keydown\", this.handleBackspace);\n  },\n  beforeUnmount() {\n    document.removeEventListener(\"keydown\", this.handleBackspace);\n  },\n  methods: {\n    handleBackspace(event) {}\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

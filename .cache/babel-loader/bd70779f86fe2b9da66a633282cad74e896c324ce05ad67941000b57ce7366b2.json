@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ContactsContent from \"./Components/ContactsContent.vue\";\nexport default {\n  name: \"ContactsApp\",\n  components: {\n    ContactsContent\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

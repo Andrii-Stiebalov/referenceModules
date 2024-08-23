@@ -1,0 +1,1 @@
+{"ast":null,"code":"import BlacklistItem from \"./Components/BlacklistItem.vue\";\nimport ListNavigation from \"./Components/ListNavigation.vue\";\nexport default {\n  components: {\n    BlacklistItem,\n    ListNavigation\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    Property: Object,\n    setIsShowCar: Function\n  },\n  methods: {\n    goToLocation(coords) {\n      this.$callClient(\"C:Property:Location\", coords);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

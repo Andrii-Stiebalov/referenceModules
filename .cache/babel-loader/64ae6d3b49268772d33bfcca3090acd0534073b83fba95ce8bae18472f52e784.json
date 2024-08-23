@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    call: {\n      type: Object,\n      required: true\n    }\n  },\n  methods: {\n    acceptCall() {\n      this.$emit(\"acceptCall\", this.call.id);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

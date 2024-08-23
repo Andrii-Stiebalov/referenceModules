@@ -1,0 +1,1 @@
+{"ast":null,"code":"import ListItem from \"./Components/ListItem.vue\";\nexport default {\n  props: {\n    items: {\n      type: Array,\n      required: true\n    }\n  },\n  components: {\n    ListItem\n  },\n  methods: {\n    onOpenItem(item) {\n      this.$emit(\"openItem\", item);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import WeazelAppLogo from \"./Components/WeazelAppLogo.vue\";\nexport default {\n  data() {\n    return {};\n  },\n  components: {\n    WeazelAppLogo\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import VanillaTilt from 'vanilla-tilt';\nexport default {\n  name: 'Tilt',\n  data: function () {\n    return {};\n  },\n  mounted() {\n    VanillaTilt.init(this.$refs.tiltRef, this.options);\n  },\n  props: {\n    options: Object,\n    parallax: Boolean\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

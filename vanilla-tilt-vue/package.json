@@ -1,0 +1,54 @@
+{
+  "name": "vanilla-tilt-vue",
+  "version": "0.1.3",
+  "description": "A Vuejs wrapper for vanilla-tilt",
+  "main": "src/components/tilt.vue",
+  "keywords": [
+    "Vue",
+    "tilt.js",
+    "tilt",
+    "vanilla-tilt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Withenex/vanilla-tilt-vue"
+  },
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "vanilla-tilt": "^1.7.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

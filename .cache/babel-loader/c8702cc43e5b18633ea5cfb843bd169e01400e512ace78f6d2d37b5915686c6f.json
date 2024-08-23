@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  name: \"PhoneModal\",\n  computed: {\n    getModalList() {\n      return this.$store.getters[\"phone/getModalList\"];\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

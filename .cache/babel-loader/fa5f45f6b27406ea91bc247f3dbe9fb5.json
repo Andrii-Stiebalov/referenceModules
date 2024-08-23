@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Browser from \"./Browser.js\";\nconsole.log(\"Backend: Startup started\");\nwindow.Browser = Browser;\nBrowser.isReady().then(() => {\n  console.log(\"Backend:Browser ready\");\n  import(\"./Modules/Main.js\");\n});","map":null,"metadata":{},"sourceType":"module"}

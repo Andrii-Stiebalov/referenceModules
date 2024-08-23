@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    height: Number\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

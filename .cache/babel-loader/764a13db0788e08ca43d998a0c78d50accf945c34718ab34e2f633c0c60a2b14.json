@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    path: {\n      type: String,\n      required: true\n    }\n  },\n  components: {},\n  data() {\n    return {};\n  },\n  methods: {},\n  computed: {}\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

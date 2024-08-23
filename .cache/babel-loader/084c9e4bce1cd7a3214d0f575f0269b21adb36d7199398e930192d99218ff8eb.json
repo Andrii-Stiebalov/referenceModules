@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Taxi from \"../Assets/Icons/Taxi.vue\";\nexport default {\n  components: {\n    Taxi\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

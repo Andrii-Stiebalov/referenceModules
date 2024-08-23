@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    procent: Number\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

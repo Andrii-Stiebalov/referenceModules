@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  data() {\n    return {\n      oldTransition: \"\",\n      newTransition: \"\"\n    };\n  },\n  created() {\n    this.$router.beforeEach((to, from) => {\n      this.oldTransition = from.meta.transition;\n      this.newTransition = to.meta.transition;\n    });\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

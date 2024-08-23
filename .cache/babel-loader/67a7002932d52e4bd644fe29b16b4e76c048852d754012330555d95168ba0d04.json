@@ -1,0 +1,1 @@
+{"ast":null,"code":"import FBI from \"../../Assets/Icons/FBI.vue\";\nexport default {\n  components: {\n    FBI\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

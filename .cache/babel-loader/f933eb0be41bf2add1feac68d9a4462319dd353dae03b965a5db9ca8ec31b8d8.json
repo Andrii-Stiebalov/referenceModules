@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Bell from \"../Assets/Icons/Bell.vue\";\nexport default {\n  components: {\n    Bell\n  },\n  props: {\n    active: {\n      type: Boolean,\n      required: true\n    }\n  },\n  methods: {\n    onChange() {\n      this.$emit(\"setNotification\", !this.active);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

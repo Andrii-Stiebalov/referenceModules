@@ -1,0 +1,1 @@
+{"ast":null,"code":"const mp = window.mp;\nconst Browser = window.Browser;\nconst data = {\n  name: \"Заправка\",\n  owner: \"NightWill\",\n  showTickets: false,\n  literPrice: 0,\n  maxGas: 11,\n  tickets: 5\n};\nmp.events.add(\"Gas:Ready\", () => {\n  Browser.emit(\"Gas:SetData\", data);\n});","map":null,"metadata":{},"sourceType":"script","externalDependencies":[]}

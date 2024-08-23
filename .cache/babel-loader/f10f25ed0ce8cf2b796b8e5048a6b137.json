@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  data() {\n    return {\n      // mainColor: \"#A30EFF\",\n    };\n  },\n  props: {\n    mainColor: String\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

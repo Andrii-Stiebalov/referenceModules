@@ -1,0 +1,1 @@
+{"ast":null,"code":"import InfoModal from \"./InfoModal.vue\";\nimport Info from \"./Info.vue\";\nexport default {\n  data() {\n    return {\n      infoPositon: null,\n      isShowModal: false\n    };\n  },\n  props: {\n    modalData: Object,\n    type: String\n  },\n  components: {\n    InfoModal,\n    Info\n  }\n};","map":null,"metadata":{},"sourceType":"module"}

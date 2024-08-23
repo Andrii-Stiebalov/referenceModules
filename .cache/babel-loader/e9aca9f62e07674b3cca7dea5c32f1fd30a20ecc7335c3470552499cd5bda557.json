@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { mapGetters } from \"vuex\";\nexport default {\n  data() {\n    return {\n      savePassword: false\n    };\n  },\n  computed: {\n    ...mapGetters(\"authentication\", [\"getQueue\"])\n  },\n  methods: {},\n  beforeMount() {},\n  mounted() {},\n  beforeUnmount() {}\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

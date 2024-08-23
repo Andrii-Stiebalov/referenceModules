@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  props: {\n    options: Array,\n    value: String\n  },\n  emits: [\"updated:value\"],\n  methods: {\n    onSelect(option) {\n      this.$emit(\"update:value\", option);\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

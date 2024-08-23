@@ -1,0 +1,1 @@
+{"ast":null,"code":"import IconLock2 from \"../assets/icons/lock-2.vue\";\nexport default {\n  components: {\n    IconLock2\n  },\n  props: {\n    card: {\n      require: true,\n      type: Object\n    }\n  }\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
